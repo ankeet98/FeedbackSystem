@@ -1,0 +1,24 @@
+/* Add-table btn */
+.table .btn {
+  position: absolute;
+  width: 200px;
+  margin-left: 250px !important;
+}
+
+/* Manage-table text decoration */
+.table .tbody,
+thead {
+  text-align: center !important;
+}
+
+.table a .fa-pencil {
+  color: green;
+}
+
+.table a .fa-ban {
+  color: red;
+}
+
+.table a .fa-user-circle {
+  color: green;
+}

@@ -1,0 +1,38 @@
+.box {
+  position: absolute;
+  left: 28%;
+  background: #f7f1e3;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px #000;
+}
+
+.box .btn {
+  min-width: 280px;
+}
+
+.box i {
+  margin: 0 10px;
+}
+
+.box input[type="text"],
+.box input[type="email"],
+.box input[type="number"],
+.box input[type="date"] {
+  float: right;
+  width: 350px;
+}
+
+#gender {
+  float: right;
+}
+
+.box .fa-male,
+.fa-female,
+.box input[type="radio"] {
+  margin-right: 4px !important;
+}
+
+#gender label {
+  margin-right: 50px !important;
+}

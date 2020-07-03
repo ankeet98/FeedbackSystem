@@ -1,0 +1,9 @@
+.box {
+  margin-left: 250px;
+  width: 500px;
+}
+
+.box input[type="password"],
+.box input[type="reset"] {
+  float: right;
+}
